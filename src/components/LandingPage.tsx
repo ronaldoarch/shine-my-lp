@@ -1,6 +1,6 @@
 import { Check, Zap, Target, Shield, Clock, TrendingUp } from "lucide-react";
-import aviationLogo from "@/assets/aviation-logo.png";
-import heroBg from "@/assets/hero-bg.jpg";
+import aviationLogo from "@/assets/aviation.png";
+import heroBg from "@/assets/he-bg.jpg";
 
 const LandingPage = () => {
   return (
