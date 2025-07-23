@@ -41,12 +41,10 @@ const LandingPage = () => {
 
           {/* CTA Button */}
           <div className="mb-12 animate-slide-up">
-            <a href="https://t.me/antiaviator" target="_blank" rel="noopener noreferrer">
-              <button className="btn-primary text-xl font-bold px-12 py-6 rounded-2xl animate-glow">
-                <Zap className="w-6 h-6 mr-2" />
-                [ ACESSAR AGORA 🏠 ]
-              </button>
-            </a>
+            <button className="btn-primary text-xl font-bold px-12 py-6 rounded-2xl animate-glow">
+              <Zap className="w-6 h-6 mr-2" />
+              [ ACESSAR AGORA 🏠 ]
+            </button>
           </div>
 
           {/* Features List */}
@@ -128,12 +126,10 @@ const LandingPage = () => {
             Não perca mais tempo com métodos que não funcionam. 
             Acesse agora e comece a lucrar hoje mesmo!
           </p>
-          <a href="https://t.me/antiaviator" target="_blank" rel="noopener noreferrer">
-            <button className="btn-primary text-2xl font-bold px-16 py-8 rounded-2xl animate-glow">
-              <Zap className="w-8 h-8 mr-3" />
-              QUERO ACESSAR AGORA
-            </button>
-          </a>
+          <button className="btn-primary text-2xl font-bold px-16 py-8 rounded-2xl animate-glow">
+            <Zap className="w-8 h-8 mr-3" />
+            QUERO ACESSAR AGORA
+          </button>
         </div>
       </div>
     </div>
